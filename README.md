@@ -11,16 +11,13 @@ The Forex Data Pipeline is a comprehensive solution designed to collect, process
 
 - **Hive Integration**: The processed data is stored in a Hive table within HDFS, facilitating efficient storage and retrieval of the prepared currency rate information.
 
-- **Seamless ML Integration**: By providing clean and well-structured data, the Forex Data Pipeline sets the stage for downstream machine-learning pipelines to seamlessly integrate and build predictive models.
+- **Seamless ML Integration**: By providing clean and well-structured data, the Forex Data Pipeline sets the stage for downstream machine-learning pipelines to integrate and build predictive models seamlessly.
 
 ## Repository Structure
 
 The repository is organized as follows:
 
-- `src/`: Contains the source code for the Forex Data Pipeline.
-- `data/`: Holds sample data files for testing and development.
-- `notebooks/`: Jupyter notebooks showcasing data exploration, transformation, and pipeline execution.
-- `docs/`: Documentation and relevant resources for understanding and utilizing the pipeline.
+- `/`: Contains the source code for the Forex Data Pipeline.
 
 ## Getting Started
 
@@ -29,5 +26,5 @@ To use the Forex Data Pipeline:
 1. Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/forex-data-pipeline.git
+git clone https://github.com/sabareh/forex-data-pipeline.git
 
