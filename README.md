@@ -17,7 +17,7 @@ The Forex Data Pipeline is a comprehensive solution designed to collect, process
 
 The repository is organized as follows:
 
-- `/`: Contains the source code for the Forex Data Pipeline.
+- `/forex_data_pipeline_final`: Contains the source code for the Forex Data Pipeline.
 
 ## Getting Started
 
